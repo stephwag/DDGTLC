@@ -6,7 +6,7 @@ Translations can be switched on-the-fly from the game's Settings menu. This allo
 
 ### How to install
 1. Install the original game (from [Steam](http://store.steampowered.com/app/698780/Doki_Doki_Literature_Club) or [official site](https://ddlc.moe)).
-2. Clone this repo or [download from here](https://s3-us-west-2.amazonaws.com/ddlc/downloads/DDGTLC_v0.0.1.zip).
+2. [Download the mod](https://s3-us-west-2.amazonaws.com/ddlc/downloads/DDGTLC_v0.0.1.zip).
 2. Place `scripts.rpa`, `fonts.rpa`, and `locales` into the `game` directory within the game's installed location.
 
 <a href="https://s3-us-west-2.amazonaws.com/ddlc/pics/1.png"><img src="https://s3-us-west-2.amazonaws.com/ddlc/pics/1thumb.jpg" width="33%"/></a><a href="https://s3-us-west-2.amazonaws.com/ddlc/pics/2.png"><img src="https://s3-us-west-2.amazonaws.com/ddlc/pics/2thumb.jpg" width="33%"/></a><a href="https://s3-us-west-2.amazonaws.com/ddlc/pics/3.png"><img src="https://s3-us-west-2.amazonaws.com/ddlc/pics/3thumb.jpg" width="33%"/></a>
